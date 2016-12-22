@@ -16,3 +16,9 @@
 !/log/.keep
 /tmp
 /public/system/movies/images
+
+# Ignore DS Store files
+.DS_Store
+app/.DS_Store
+app/assets/.DS_Store
+db/.DS_Store
